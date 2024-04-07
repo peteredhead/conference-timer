@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/conference-timer/static/css/main.1ee280c1.css",
-    "main.js": "/conference-timer/static/js/main.b939c169.js",
+    "main.js": "/conference-timer/static/js/main.aca7c9e3.js",
     "static/js/453.57b54166.chunk.js": "/conference-timer/static/js/453.57b54166.chunk.js",
     "index.html": "/conference-timer/index.html",
     "main.1ee280c1.css.map": "/conference-timer/static/css/main.1ee280c1.css.map",
-    "main.b939c169.js.map": "/conference-timer/static/js/main.b939c169.js.map",
+    "main.aca7c9e3.js.map": "/conference-timer/static/js/main.aca7c9e3.js.map",
     "453.57b54166.chunk.js.map": "/conference-timer/static/js/453.57b54166.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1ee280c1.css",
-    "static/js/main.b939c169.js"
+    "static/js/main.aca7c9e3.js"
   ]
 }
